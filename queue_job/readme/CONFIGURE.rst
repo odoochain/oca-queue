@@ -41,3 +41,4 @@
 
 .. [1] It works with the threaded Odoo server too, although this way
        of running Odoo is obviously not for production purposes.
+它也适用于线程化的 Odoo 服务器，尽管这种运行 Odoo 的方式显然不是用于生产目的
